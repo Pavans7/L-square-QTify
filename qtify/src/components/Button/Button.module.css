@@ -1,7 +1,16 @@
-.button{
+/* .button{
     background-color: var(--color-black);
+    background-color: black;
     color: var(--color-primary);
     border-radius: 12px;
     padding: 10px 16px;
     cursor: pointer;
-    };
+    }; */
+
+    .button{
+        background-color: var(--color-black);
+        color: var(--color-primary);
+        border-radius: 12px;
+        padding: 10px 16px;
+        cursor: pointer;
+        };

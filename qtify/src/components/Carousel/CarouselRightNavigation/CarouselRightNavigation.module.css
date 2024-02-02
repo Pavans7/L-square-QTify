@@ -1,8 +1,17 @@
-.rightNavigation {
+/* .rightNavigation {
     position: absolute;
     right: 10px;
     top: 40%;
     transform: translateY(-50%);
     z-index: 10;
     cursor: pointer;
-  }
+  } */
+
+  .rightNavigation {
+    position:absolute;
+    right: 10px;
+    top: 40%;
+    transform: translateY(-50%);
+    z-index: 10;
+    cursor: pointer;
+}
