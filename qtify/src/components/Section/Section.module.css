@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: last baseline;
+}
+.cardWrapper{
+    margin: 18px;
+}
+.wrapper{
+    display: flex;
+    gap:40px;
+    flex-wrap: wrap;
+
+}
+.toogleText{
+    cursor: pointer;
+    color: var(--color-primary);
+    
+}
