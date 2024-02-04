@@ -9,7 +9,7 @@ import styles from "./Navbar.module.css";
 
 function Navbar({ searchData }) {
     return (
-        <nav className={styles.navbar}>
+        <nav className = {`${styles.navbar} nav`}>
             <a href="/">
                 <Logo/>
             </a>
