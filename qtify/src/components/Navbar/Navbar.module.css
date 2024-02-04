@@ -1,5 +1,5 @@
 
- .navbar {
+ /* .navbar {
         background-color: var(--color-primary);
         height: 74px;
         width: 100vw;
@@ -8,11 +8,12 @@
         align-items: center;
         justify-content: space-between;
         
-        }
+        } */
 
    .nav{
+       
       
-       background-color: var(--color-primary);
+        background-color: var(--color-primary);
         height: 74px;
         width: 100vw;
         padding: 0px 32px;
